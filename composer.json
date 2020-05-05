@@ -1,0 +1,26 @@
+{
+    "name": "rodion-arr/string-helper",
+    "description": "A trait for mixing-in some useful string helpers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodion Abdurakhimov",
+            "email": "rodion.arr.web@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RodionARR\\": "src/RodionARR"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "scripts": {
+        "test-ci": "./vendor/bin/phpunit -v --coverage-clover=coverage.xml --coverage-text --debug --colors=never"
+    }
+}
