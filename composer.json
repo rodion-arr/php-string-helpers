@@ -1,5 +1,5 @@
 {
-    "name": "rodion-arr/string-helper",
+    "name": "rodion-arr/string-helpers",
     "description": "A trait for mixing-in some useful string helpers",
     "type": "library",
     "license": "MIT",
