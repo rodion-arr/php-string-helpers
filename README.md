@@ -1,6 +1,6 @@
 # PHP String helpers
 
-![PHP Composer](https://github.com/rodion-arr/php-string-helpers/workflows/PHP%20Composer/badge.svg) [![codecov](https://codecov.io/gh/rodion-arr/php-string-helpers/branch/master/graph/badge.svg)](https://codecov.io/gh/rodion-arr/php-string-helpers) [![Latest Stable Version](https://poser.pugx.org/rodion-arr/php-string-helpers/v/stable)](https://packagist.org/packages/rodion-arr/php-string-helpers) [![License](https://poser.pugx.org/rodion-arr/php-string-helpers/license)](https://packagist.org/packages/rodion-arr/php-string-helpers)
+[![PHP Composer](https://github.com/rodion-arr/php-string-helpers/workflows/PHP%20Composer/badge.svg)](https://github.com/rodion-arr/php-string-helpers/actions) [![codecov](https://codecov.io/gh/rodion-arr/php-string-helpers/branch/master/graph/badge.svg)](https://codecov.io/gh/rodion-arr/php-string-helpers) [![Latest Stable Version](https://poser.pugx.org/rodion-arr/php-string-helpers/v/stable)](https://packagist.org/packages/rodion-arr/php-string-helpers) [![License](https://poser.pugx.org/rodion-arr/php-string-helpers/license)](https://packagist.org/packages/rodion-arr/php-string-helpers)
 
 A trait for mixing-in some useful string helpers
 
