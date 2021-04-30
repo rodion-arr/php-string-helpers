@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^7.1.0"
+        "php": "^7.1.0|^8.0.0"
     },
     "autoload": {
         "psr-4": {
@@ -21,6 +21,6 @@
         "phpunit/phpunit": "^9.1"
     },
     "scripts": {
-        "test-ci": "./vendor/bin/phpunit -v --coverage-clover=coverage.xml --coverage-text --debug --colors=never"
+        "test-ci": "XDEBUG_MODE=coverage ./vendor/bin/phpunit -v --coverage-clover=coverage.xml --coverage-text --debug --colors=never"
     }
 }
